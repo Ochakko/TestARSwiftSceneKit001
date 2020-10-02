@@ -23,6 +23,9 @@ SwiftはオープンソースでライセンスはApache 2.0 Licenseです
 [iOSで]iOSで いちにさんし☆ は出来るか[Swiftで]
 https://youtu.be/sTt8N9btamk
 
+
 RokDeBone2のキャラクターをiPhoneで踊らせるためのデータ変換について[2020/09/23]
+https://moo-ochakkolab.ssl-lolipop.jp/diary_mac.html#Swift_SceneKit_20200930
+
 https://youtu.be/ZtE31IXrwrA
 
